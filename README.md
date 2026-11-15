@@ -1,5 +1,5 @@
 # Amazon-KDP-Image-to-Pdf
-KDP Builder is a lightweight desktop app that converts coloring book images into Amazon KDP-ready interior PDFs. It offers bulk image import, automatic sorting, image inspection, precise page formatting, and PDF validation. Advantages: Saves time, simplifies publishing, improves print quality, and helps catch formatting issues before upload.
+Amazon-KDP-Image-to-Pdf is a lightweight desktop app that converts coloring book images into Amazon KDP-ready interior PDFs. It offers bulk image import, automatic sorting, image inspection, precise page formatting, and PDF validation. Advantages: Saves time, simplifies publishing, improves print quality, and helps catch formatting issues before upload.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
@@ -9,7 +9,7 @@ KDP Builder is a lightweight desktop app that converts coloring book images into
 
 ## Why
 
-The usual "images to PDF" route often produces the classic KDP problems: artwork touching the page boundary, wrong margins, full-page images that ignore the gutter, low effective resolution, transparency, blank or gray patches, and inconsistent page sizes. KDP Builder is built around preventing and diagnosing exactly those.
+The usual "images to PDF" route often produces the classic KDP problems: artwork touching the page boundary, wrong margins, full-page images that ignore the gutter, low effective resolution, transparency, blank or gray patches, and inconsistent page sizes. Amazon-KDP-Image-to-Pdf is built around preventing and diagnosing exactly those.
 
 ## Features
 
