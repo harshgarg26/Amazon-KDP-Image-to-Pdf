@@ -1,5 +1,5 @@
 # Amazon-KDP-Image-to-Pdf
-Amazon-KDP-Image-to-Pdf is a lightweight desktop app that converts coloring book images into Amazon KDP-ready interior PDFs. It offers bulk image import, automatic sorting, image inspection, precise page formatting, and PDF validation. Advantages: Saves time, simplifies publishing, improves print quality, and helps catch formatting issues before upload.
+Amazon-KDP-Image-to-Pdf is a lightweight desktop app that converts book images into Amazon KDP-ready interior PDFs. It offers bulk image import, automatic sorting, image inspection, precise page formatting, and PDF validation. Advantages: Saves time, simplifies publishing, improves print quality, and helps catch formatting issues before upload.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
